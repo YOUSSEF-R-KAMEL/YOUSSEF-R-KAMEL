@@ -14,8 +14,8 @@ I'm a passionate **Software Developer** with a strong focus on building visually
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [se.youssefrafat1@gmail.com](mailto:se.youssefrafat@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/youssefrafat]([https://www.linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/youssef-raafat-695591203/)) <!-- Replace with your actual LinkedIn profile -->
+- 📧 Email: [se.youssefrafat@gmail.com](mailto:se.youssefrafat@gmail.com)
+- 💼 LinkedIn: [youssefrafat]([https://www.linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/youssef-raafat-695591203/))
 
 ---
 
