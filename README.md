@@ -30,4 +30,4 @@ I'm a software developer with a strong passion for creating visually appealing a
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular)
+![Angular](https://img.shields.io/badge/-Angular+19-000000?style=flat&logo=Angular)
