@@ -3,14 +3,8 @@
 I'm a passionate **Software Developer** with a strong focus on building visually appealing and user-friendly websites.
 
 - 👨‍💻 Currently Working On Web development using **JavaScript** and **Angular**
-- 📚  Currently learning about Frontend and Backend technologies.
-- 🎯 Future Goals: Learn more web technologies - Create awesome websites.
-- Full-stack technologies and best practices
-
-## 🎯 Future Goals
-
-- Master modern web technologies
-- Build innovative and responsive web applications
+- 📚 Currently learning about Frontend and Backend technologies.
+- 🎯 Future Goals: Learn more web technologies, Create awesome websites, learning Full-stack technologies and best practices
 
 ## 🛠️ Technologies I Work With
 
