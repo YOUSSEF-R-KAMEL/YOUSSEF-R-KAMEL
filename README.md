@@ -13,10 +13,10 @@ I'm a software developer with a strong passion for creating visually appealing a
 - 🎯 Future Goals: Learn more web technologies - Create awesome websites.
 - 📫 How to reach me **se.youssefrafat@gmail.com**
   
-- 📫 Social links
-<a href="https://www.linkedin.com/in/youssef-raafat-695591203">
-  <img src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin">
-</a>
+- 📫 Social links <a href="https://www.linkedin.com/in/youssef-raafat-695591203">
+                    <img src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin">
+                  </a>
+
 
 ### 🛠 &nbsp;Technologies that I work with
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
