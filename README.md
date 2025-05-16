@@ -27,8 +27,7 @@ I'm a software developer with a strong passion for creating visually appealing a
 
 ### 🛠 &nbsp;Technologies that I work with
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![HTML5](https://img.shields.io/badge/-C#-000000?style=flat&logo=C#)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular)
