@@ -21,7 +21,7 @@ I'm a passionate **Software Developer** with a strong focus on building visually
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-raafat-695591203/)
+[(https://img.shields.io/badge/LinkedIn-View_Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-raafat-695591203/)
 
 
 ---
