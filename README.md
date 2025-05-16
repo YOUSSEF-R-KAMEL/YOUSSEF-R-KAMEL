@@ -21,6 +21,23 @@ I'm a passionate **Software Developer** with a strong focus on building visually
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
+<a href="mailto:se.youssefrafat@gmail.com">
+  <img src="https://img.shields.io/badge/Email-se.youssefrafat@gmail.com-blue?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/youssef-raafat-695591203/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<p align="left">
+  <a href="mailto:se.youssefrafat@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-Click%20Here-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/youssef-raafat-695591203/" style="text-decoration: none;" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 Thanks for visiting my profile! Feel free to connect with me or check out my projects below.
