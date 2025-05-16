@@ -31,4 +31,4 @@ I'm a software developer with a strong passion for creating visually appealing a
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular+19-000000?style=flat&logo=Angular)
-![Twailwind](https://img.shields.io/badge/-Twailwind-000000?style=flat&logo=Twailwind)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=Tailwind)
