@@ -1,61 +1,33 @@
 # 👋 Hi, I'm Youssef Raafat
 
-I'm a passionate **Frontend Developer** specializing in building responsive, user-friendly web applications using modern technologies.
+I'm a passionate **Software Developer** with a strong focus on building visually appealing and user-friendly websites.
 
-## 👨‍💻 About Me
+## 👨‍💻 Currently Working On
 
-- 🎓 **Education**: Computer Science graduate from HTI
-- 📍 **Location**: Cairo, Egypt
-- 📧 **Email**: [se.youssefrafat@gmail.com](mailto:se.youssefrafat@gmail.com)
-- 📞 **Phone**: +20 1278004938
+- Web development using **JavaScript** and **Angular**
+- Strengthening my knowledge in **Frontend** and **Backend** technologies
 
-## 🛠️ Skills
+## 📚 Currently Learning
 
-- **Languages**: HTML5, CSS3, JavaScript, TypeScript
-- **Frameworks & Libraries**: Angular, Angular Material, jQuery, Bootstrap, Sass
-- **Tools**: Git, GitHub, JSON
+- Advanced web development concepts
+- Full-stack technologies and best practices
 
-## 📚 Certificates
+## 🎯 Future Goals
 
-*Details about your certificates can be listed here.*
+- Master modern web technologies
+- Build innovative and responsive web applications
 
-## 💼 Projects
+## 🛠️ Technologies I Work With
 
-Here are some of the projects I've worked on:
+- **Languages**: HTML5, CSS3, JavaScript, TypeScript  
+- **Frameworks & Tools**: Angular   
+- **Others**: Responsive Design, Git
 
-- **Ecommerce Fast Store**: [Live Demo](#) | [Source Code](#)
-- **Project Management System**: [Live Demo](#) | [Source Code](#)
-- **Food App**: [Live Demo](#) | [Source Code](#)
-- **Testy Food**: [Live Demo](#) | [Source Code](#)
-- **eCommerce**: [Live Demo](#) | [Source Code](#)
-- **Admin eCommerce**: [Live Demo](#) | [Source Code](#)
-- **Grand Mothers**: [Live Demo](#) | [Source Code](#)
-- **Pesto**: [Live Demo](#) | [Source Code](#)
-- **Eflyer**: [Live Demo](#) | [Source Code](#)
-- **Johoba Agency**: [Live Demo](#) | [Source Code](#)
-- **Kaspes**: [Live Demo](#) | [Source Code](#)
-- **Leon**: [Live Demo](#) | [Source Code](#)
+## 📫 How to Reach Me
 
-*Replace the `#` with actual URLs to your live demos and source code repositories.*
-
-## 💬 Testimonials
-
-*Include any testimonials or feedback you've received here.*
-
-## 🧰 Services
-
-- **Web Development**: Professional design, high quality, and perfect performance using HTML5, CSS3, JavaScript.
-- **Responsive Design**: 100% responsive designs compatible with all devices and platforms.
-- **Creative Design**: Edit your current website or create one from scratch, both include creativity.
-- **Support**: Support is available if you want any changes in your website; you can ask for it anytime.
-- **Web Idea**: Edit your current website or create one from scratch, both include creativity.
-- **Retouch**: If you have a website and want to create a new design for it, that's why I'm here for.
-
-## 🌐 Connect with Me
-
-- **LinkedIn**: [linkedin.com/in/youssef-raafat-695591203](https://www.linkedin.com/in/youssef-raafat-695591203)
-- **Portfolio**: [youssef-raafat-angular-portfolio.vercel.app](https://youssef-raafat-angular-portfolio.vercel.app/home)
+- 📧 Email: [se.youssefrafat1@gmail.com](mailto:se.youssefrafat@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/youssefrafat]([https://www.linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/youssef-raafat-695591203/)) <!-- Replace with your actual LinkedIn profile -->
 
 ---
 
-Thank you for visiting my profile! Feel free to connect or check out my projects.
+Thanks for visiting my profile! Feel free to connect with me or check out my projects below.
