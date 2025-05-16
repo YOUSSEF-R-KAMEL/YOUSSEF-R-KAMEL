@@ -31,15 +31,3 @@ I'm a software developer with a strong passion for creating visually appealing a
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular+19-000000?style=flat&logo=Angular)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=Tailwind)
-
-
-<p>
-  <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3" alt="CSS3">
-  <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-Angular+19-000000?style=flat&logo=Angular" alt="Angular 19">
-  <img src="https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=Tailwind" alt="Tailwind">
-</p>
-
