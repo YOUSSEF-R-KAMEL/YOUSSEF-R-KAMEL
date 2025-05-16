@@ -18,14 +18,10 @@ I'm a software developer with a strong passion for creating visually appealing a
   <a href="https://www.linkedin.com/in/eman-awad-714757203/">
     <img src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin">
   </a>
-</p>
-
-<p>
-  <a href="https://youssef-raafat-angular-portfolio.vercel.app/">
+    <a href="https://youssef-raafat-angular-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
-
 
 ### 🛠 &nbsp;Technologies that I work with
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
