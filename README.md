@@ -18,7 +18,9 @@ I'm a software developer with a strong passion for creating visually appealing a
   <a href="https://www.linkedin.com/in/eman-awad-714757203/">
     <img src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin">
   </a>
-    <a href="https://youssef-raafat-angular-portfolio.vercel.app/">
+</p>
+<p>
+  <a href="https://youssef-raafat-angular-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
